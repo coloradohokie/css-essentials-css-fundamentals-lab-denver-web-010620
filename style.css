@@ -18,7 +18,7 @@ nav a { background-color: #888888;
 }
 
 #featured-property p {  width: 800px;
-                          text-align: center;
+                          text-align: right;
 }
 
 figcaption { font-size: 10px;
