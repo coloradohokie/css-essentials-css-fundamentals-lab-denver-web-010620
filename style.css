@@ -25,11 +25,12 @@ figcaption { font-size: 10px;
             text-align: center
 }
 
-#details { display: block;
+#details { 
             float: left;
             width: 25%;
 }
-#details div {background-color: #F00;
+#details div {display: block;
+              background-color: #F00;
               text-align: center;
             
 }
